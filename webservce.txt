@@ -1,0 +1,9 @@
+https://adamschen9921.pixnet.net/blog/post/84885372
+https://community.sagecrm.com/partner_community/b/hints_tips_and_tricks/archive/2017/10/23/using-soap-web-services-in-visual-studio-add-service-reference-vs-add-web-reference.aspx
+https://dotblogs.com.tw/rainmaker/2015/05/25/151395
+https://tonyalbert7788.blogspot.com/2014/08/vbnet-webservice.html
+https://blog.csdn.net/lidew521/article/details/42619393
+https://forums.asp.net/t/2061461.aspx?Help+calling+webservice+in+VB+Net
+http://www.dneonline.com/calculator.asmx
+https://stackoverflow.com/questions/3100458/soap-client-in-net-references-or-examples
+https://dotblogs.com.tw/mis2000lab/2008/09/26/webservice_2_callreference
